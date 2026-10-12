@@ -96,8 +96,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Gere os dados de exemplo
-**
+**4. Gere os dados de exemplo**
 
 ```bash
 python data/create_sample_data.py
@@ -108,8 +107,6 @@ python data/create_sample_data.py
 ```bash
 streamlit run app.py
 ```
-
-O dashboard estará disponível em `https://projetodashaboardvendas.streamlit.app/`
 
 ---
 
@@ -150,9 +147,7 @@ O dashboard estará disponível em `https://projetodashaboardvendas.streamlit.ap
 
 **Danilo Oliveira dos Santos**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniloSantos1985)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-oliveira-santos-b5b3a1174/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniloSantos1985) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-oliveira-santos-b5b3a1174/)
 
 ---
 

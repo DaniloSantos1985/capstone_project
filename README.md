@@ -16,7 +16,7 @@ Link do projeto em execução: [Dashboard de Vendas](https://projetodashaboardve
 
 ## Estrutura do Projeto
 
-```text
+```
 capstone_project/
 │
 ├── data/
@@ -36,6 +36,7 @@ capstone_project/
 ├── app.py                      # Página inicial do dashboard
 ├── requirements.txt            # Dependências do projeto
 └── README.md                   # Documentação completa do projeto
+```
 
 ---
 

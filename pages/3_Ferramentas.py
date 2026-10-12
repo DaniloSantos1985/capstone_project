@@ -1,10 +1,10 @@
-# ─── IMPORTAÇÕES ─────────────────────────────────────────────────────────────
+# ─── IMPORTAÇÕES ────────────────────────────────────────────────────────────────
 
-import streamlit as st              # Framework para criação da interface web
-import pandas as pd                 # ⚠️ importado como 'ps' no original — corrigir para 'pd'
-from utils.data_loader import load_data  # Função para carregar o CSV
+import streamlit as st                  # Framework para criação da interface web
+import pandas as pd                     # Biblioteca pandas
+from utils.data_loader import load_data # Função para carregar o CSV
 
-# ─── CONFIGURAÇÃO DA PÁGINA ──────────────────────────────────────────────────
+# ─── CONFIGURAÇÃO DA PÁGINA ─────────────────────────────────────────────────────
 
 # Define título da aba do navegador e layout em tela cheia
 st.set_page_config(

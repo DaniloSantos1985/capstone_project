@@ -1,5 +1,4 @@
 # Dashboard de Análise de Vendas
-# Dashboard de Análise de Vendas
 
 ## Sobre o Projeto
 
@@ -37,7 +36,6 @@ capstone_project/
 ├── app.py                      # Página inicial do dashboard
 ├── requirements.txt            # Dependências do projeto
 └── README.md                   # Documentação completa do projeto
-'''
 
 ---
 
@@ -150,6 +148,7 @@ O dashboard estará disponível em `https://projetodashaboardvendas.streamlit.ap
 ## Autor
 
 **Danilo Oliveira dos Santos**
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniloSantos1985)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-oliveira-santos-b5b3a1174/)
